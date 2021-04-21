@@ -9,6 +9,7 @@ import { DashboardComponent } from './pages/dashboard/dashboard.component';
 import { BreadcrumsComponent } from './shared/breadcrums/breadcrums.component';
 import { SidebarComponent } from './shared/sidebar/sidebar.component';
 import { HeaderComponent } from './shared/header/header.component';
+import { ProgressComponent } from './pages/progress/progress.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { HeaderComponent } from './shared/header/header.component';
     DashboardComponent,
     BreadcrumsComponent,
     SidebarComponent,
-    HeaderComponent
+    HeaderComponent,
+    ProgressComponent
   ],
   imports: [
     BrowserModule,

@@ -10,6 +10,7 @@ import { BreadcrumsComponent } from './shared/breadcrums/breadcrums.component';
 import { SidebarComponent } from './shared/sidebar/sidebar.component';
 import { HeaderComponent } from './shared/header/header.component';
 import { ProgressComponent } from './pages/progress/progress.component';
+import { PagesComponent } from './pages/pages.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { ProgressComponent } from './pages/progress/progress.component';
     BreadcrumsComponent,
     SidebarComponent,
     HeaderComponent,
-    ProgressComponent
+    ProgressComponent,
+    PagesComponent
   ],
   imports: [
     BrowserModule,

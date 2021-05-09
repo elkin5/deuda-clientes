@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3e449e2-5310-4a33-8b54-9a21cfc0f768" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/debt-app-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/config/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/config/ApplicationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/controller/ClientDebtRestcontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/controller/ClientDebtRestcontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/model/dto/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/model/dto/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/model/dto/ClientDebt.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/model/dto/ClientDebt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/model/dto/Debt.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/model/dto/Debt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/model/entity/DebtEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/model/entity/DebtEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/repository/dao/ClientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/repository/dao/ClientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/repository/dao/DebtRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/repository/dao/DebtRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/service/ClientDebtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/service/ClientDebtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/service/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/service/ClientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/service/DebtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/service/DebtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/service/IClientDebtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/service/IClientDebtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/service/IClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/service/IClientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/service/IDebtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/debt-app-api/src/main/java/org/elkin/debt_app_api/service/IDebtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-api/src/test/java/org/elkin/debt_app_api/model/dto/DebtTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/debt-app-api/src/test/java/org/elkin/debt_app_api/model/dto/DebtTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-customer-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-customer-api/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-customer-api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-customer-api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-customer-api/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-customer-api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-customer-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-customer-api/src/main/java/org/kinsoft/debt_app/customer_api/DebtAppCustomerApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-customer-api/src/main/java/org/kinsoft/debt_app/customer_api/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-customer-api/src/main/java/org/kinsoft/debt_app/customer_api/controller/CustomerRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-customer-api/src/main/java/org/kinsoft/debt_app/customer_api/model/entity/CustomerEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-customer-api/src/main/java/org/kinsoft/debt_app/customer_api/repository/ICustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-customer-api/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/debt-app-customer-api/src/test/java/org/kinsoft/debt_app/customer_api/DebtAppCustomerApiApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sF1rk57L3NbP9EIV7v4BOjbF7F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3e449e2-5310-4a33-8b54-9a21cfc0f768" name="Default Changelist" comment="" />
+      <created>1620453724203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620453724203</updated>
+      <workItem from="1620453726041" duration="23000" />
+    </task>
+    <servers />
+  </component>
+</project>

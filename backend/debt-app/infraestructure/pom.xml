@@ -2,16 +2,18 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
     <parent>
-        <artifactId>debt-app-modules</artifactId>
-        <groupId>org.kinsoft.debt-app-modules</groupId>
+        <artifactId>debt-app</artifactId>
+        <groupId>org.kinsoft.debt-app</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.kinsoft.debt-app.infraestructure</groupId>
     <artifactId>infraestructure</artifactId>
     <packaging>pom</packaging>
+    <version>0.0.1-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
